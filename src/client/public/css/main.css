@@ -1,0 +1,27 @@
+.app {
+    /*background: url("../images/ronda-malaga.jpg");*/
+    background-position: center;
+    height: 100%;
+    padding: 10px;
+}
+
+.message-list {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+    overflow-y: scroll;
+    height: 80%;
+    margin-bottom: 10px;
+}
+
+.message {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 36px 14px 14px 14px;
+    padding: 8px;
+}
+
+.image {
+    max-height: 200px;
+    max-width: 100%;
+    border-radius: 14px 14px 14px 14px;
+}
